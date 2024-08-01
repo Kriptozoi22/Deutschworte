@@ -2,7 +2,7 @@ from flask import Flask, render_template, jsonify
 import random
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='')
 
 def load_words_from_file(filename):
     """Завантажити слова з файлу."""
