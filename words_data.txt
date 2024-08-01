@@ -1,0 +1,1564 @@
+Abend;der;Noun;вечір
+Abenteuer;das;Noun;пригода
+Abfall;der;Noun;сміття
+Abflug;der;Noun;відліт
+Abgase;die;Noun;вихлопні гази
+Abitur;das;Noun;атестат
+Abkommen;das;Noun;угода
+Abkürzung;die;Noun;скорочення
+Abrechnung;die;Noun;розрахунок
+Abschluss;der;Noun;закінчення
+Absicht;die;Noun;намір
+Abteilung;die;Noun;відділ
+Adresse;die;Noun;адреса
+Agent;der;Noun;агент
+Ähnlichkeit;die;Noun;схожість
+Ahnung;die;Noun;поняття
+Aktion;die;Noun;акція
+Aktivität;die;Noun;активність
+Albtraum;der;Noun;кошмар
+Album;das;Noun;альбом
+Alkohol;der;Noun;алкоголь
+Allergie;die;Noun;алергія
+Alltag;der;Noun;повсякденність
+Altbau;der;Noun;старий будинок
+Alternativ;die;Noun;альтернатива
+Aluminium;das;Noun;алюміній
+Ambulanz;die;Noun;швидка допомога
+Ameise;die;Noun;мураха
+Amerika;das;Noun;Америка
+Ampel;die;Noun;світлофор
+Analyse;die;Noun;аналіз
+Ananas;die;Noun;ананас
+Anatomie;die;Noun;анатомія
+Anfang;der;Noun;початок
+Anforderung;die;Noun;вимога
+Anfrage;die;Noun;запит
+Angebot;das;Noun;пропозиція
+Angriff;der;Noun;атака
+Angst;die;Noun;страх
+Anhaltspunkt;der;Noun;підстава
+Ankunft;die;Noun;прибуття
+Anlage;die;Noun;установка
+Anleitung;die;Noun;інструкція
+Anmerkung;die;Noun;примітка
+Anruf;der;Noun;дзвінок
+Anschlag;der;Noun;напад
+Anschluss;der;Noun;з'єднання
+Ansicht;die;Noun;думка
+Anspannung;die;Noun;напруження
+Anspruch;der;Noun;претензія
+Anstellung;die;Noun;посада
+Anstrengung;die;Noun;зусилля
+Anteil;der;Noun;частка
+Antwort;die;Noun;відповідь
+Anwalt;der;Noun;адвокат
+Anzeige;die;Noun;оголошення
+Apfel;der;Noun;яблуко
+Apotheke;die;Noun;аптека
+Apparat;der;Noun;апарат
+April;der;Noun;квітень
+Arbeit;die;Noun;робота
+Arbeiter;der;Noun;працівник
+Arbeitsplatz;der;Noun;робоче місце
+Argument;das;Noun;аргумент
+Arm;der;Noun;рука
+Armee;die;Noun;армія
+Art;die;Noun;вид
+Artikel;der;Noun;стаття
+Arzt;der;Noun;лікар
+Aspekt;der;Noun;аспект
+Atem;der;Noun;дихання
+Atmosphäre;die;Noun;атмосфера
+Attentat;das;Noun;замах
+Aufgabe;die;Noun;завдання
+Auflage;die;Noun;тираж
+Aufmerksamkeit;die;Noun;увага
+Aufnahme;die;Noun;зйомка
+Aufregung;die;Noun;хвилювання
+Aufsatz;der;Noun;есе
+Aufschwung;der;Noun;підйом
+Aufstellung;die;Noun;встановлення
+Auftrag;der;Noun;замовлення
+Aufwand;der;Noun;витрати
+Aufzeichnung;die;Noun;запис
+Augenblick;der;Noun;момент
+August;der;Noun;серпень
+Ausbildung;die;Noun;освіта
+Ausdruck;der;Noun;вираз
+Ausflug;der;Noun;екскурсія
+Ausgabe;die;Noun;випуск
+Ausgang;der;Noun;вихід
+Ausgleich;der;Noun;зрівняння
+Aushilfe;die;Noun;тимчасова допомога
+Auskunft;die;Noun;довідка
+Ausland;das;Noun;закордон
+Ausrüstung;die;Noun;обладнання
+Aussage;die;Noun;висловлювання
+Ausschnitt;der;Noun;витяг
+Aussehen;das;Noun;зовнішній вигляд
+Aussicht;die;Noun;перспектива
+Aussprache;die;Noun;вимова
+Austausch;der;Noun;обмін
+Auswahl;die;Noun;вибір
+Auswirkung;die;Noun;вплив
+Auto;das;Noun;автомобіль
+Autobahn;die;Noun;автострада
+Autor;der;Noun;автор
+Baby;das;Noun;немовля
+Backen;das;Noun;пекти
+Badezimmer;das;Noun;ванна кімната
+Bahnhof;der;Noun;вокзал
+Ball;der;Noun;м'яч
+Band;die;Noun;група
+Bank;die;Noun;банк
+Bär;der;Noun;ведмідь
+Bar;die;Noun;бар
+Basketball;der;Noun;баскетбол
+Bauer;der;Noun;фермер
+Baum;der;Noun;дерево
+Bau;der;Noun;будівництво
+Bauch;der;Noun;живіт
+Bauernhof;der;Noun;ферма
+Becher;der;Noun;чашка
+Begriff;der;Noun;поняття
+Behörde;die;Noun;влада
+Bein;das;Noun;нога
+Beispiel;das;Noun;приклад
+Beitrag;der;Noun;внесок
+Bekanntschaft;die;Noun;знайомство
+Beleidigung;die;Noun;образа
+Bedeutung;die;Noun;значення
+Bedingung;die;Noun;умова
+Begleitung;die;Noun;супровід
+Begriff;der;Noun;термін
+Begründung;die;Noun;обґрунтування
+Behauptung;die;Noun;твердження
+Behinderung;die;Noun;інвалідність
+Beitrag;der;Noun;стаття
+Behandlung;die;Noun;лікування
+Beziehung;die;Noun;відносини
+Bevölkerung;die;Noun;населення
+Beweis;der;Noun;доказ
+Bibel;die;Noun;біблія
+Biene;die;Noun;бджола
+Bild;das;Noun;зображення
+Bildung;die;Noun;освіта
+Binde;die;Noun;бинт
+Biologie;die;Noun;біологія
+Bischof;der;Noun;єпископ
+Biss;der;Noun;укус
+Bitterkeit;die;Noun;гіркота
+Blatt;das;Noun;лист
+Blech;das;Noun;жесть
+Bleistift;der;Noun;олівець
+Blitz;der;Noun;блискавка
+Blume;die;Noun;квітка
+Blut;das;Noun;кров
+Blüte;die;Noun;цвітіння
+Bock;der;Noun;цап
+Boden;der;Noun;ґрунт
+Bogen;der;Noun;дуга
+Bohne;die;Noun;біб
+Boot;das;Noun;човен
+Bord;das;Noun;борт
+Botschaft;die;Noun;посольство
+Brand;der;Noun;пожежа
+Braten;der;Noun;смажене м'ясо
+Braut;die;Noun;наречена
+Brauch;der;Noun;звичай
+Brei;der;Noun;каша
+Breite;die;Noun;ширина
+Brett;das;Noun;дошка
+Brief;der;Noun;лист
+Brille;die;Noun;окуляри
+Brot;das;Noun;хліб
+Brücke;die;Noun;міст
+Brust;die;Noun;груди
+Buch;das;Noun;книга
+Buchstabe;der;Noun;літера
+Bühne;die;Noun;сцена
+Bulle;der;Noun;бик
+Bund;der;Noun;союз
+Bürger;der;Noun;громадянин
+Bürgermeister;der;Noun;мер
+Bus;der;Noun;автобус
+Butter;die;Noun;масло
+Café;das;Noun;кафе
+Chef;der;Noun;шеф
+Chemie;die;Noun;хімія
+Chirurg;der;Noun;хірург
+Christentum;das;Noun;християнство
+Computer;der;Noun;комп'ютер
+Dach;das;Noun;дах
+Dame;die;Noun;дама
+Dank;der;Noun;подяка
+Darm;der;Noun;кишківник
+Datum;das;Noun;дата
+Decke;die;Noun;стеля
+Deckel;der;Noun;кришка
+Demokratie;die;Noun;демократія
+Demonstration;die;Noun;демонстрація
+Dienst;der;Noun;служба
+Dienstag;der;Noun;вівторок
+Ding;das;Noun;річ
+Disziplin;die;Noun;дисципліна
+Doktor;der;Noun;доктор
+Dollar;der;Noun;долар
+Dom;der;Noun;собор
+Donnerstag;der;Noun;четвер
+Dorf;das;Noun;село
+Dose;die;Noun;банка
+Dozent;der;Noun;викладач
+Drachen;der;Noun;дракон
+Draht;der;Noun;дріт
+Dreck;der;Noun;бруд
+Drehbuch;das;Noun;сценарій
+Drehung;die;Noun;поворот
+Dreieck;das;Noun;трикутник
+Dreck;der;Noun;бруд
+Dressur;die;Noun;дресура
+Drogen;die;Noun;наркотики
+Druck;der;Noun;тиск
+Drucker;der;Noun;принтер
+Duft;der;Noun;аромат
+Durchschnitt;der;Noun;середній
+Durst;der;Noun;спрага
+Dusche;die;Noun;душ
+Ebene;die;Noun;рівнина
+Ecke;die;Noun;кут
+Ehe;die;Noun;шлюб
+Ehre;die;Noun;честь
+Ei;das;Noun;яйце
+Eichel;die;Noun;жолудь
+Eidechse;die;Noun;ящірка
+Eigentum;das;Noun;власність
+Einbildung;die;Noun;уява
+Einfluss;der;Noun;вплив
+Eingang;der;Noun;вхід
+Einkauf;der;Noun;покупка
+Einladung;die;Noun;запрошення
+Einschätzung;die;Noun;оцінка
+Einsicht;die;Noun;розуміння
+Einsatz;der;Noun;використання
+Einstellung;die;Noun;налаштування
+Eintrag;der;Noun;запис
+Einwohner;der;Noun;житель
+Einzelheit;die;Noun;деталь
+Eis;das;Noun;лід
+Eltern;die;Noun;батьки
+Empfang;der;Noun;прийом
+Empfindung;die;Noun;відчуття
+Ende;das;Noun;кінець
+Engel;der;Noun;ангел
+England;das;Noun;Англія
+Enkel;der;Noun;онук
+Entdeckung;die;Noun;відкриття
+Entfernung;die;Noun;відстань
+Entwicklung;die;Noun;розвиток
+Erde;die;Noun;земля
+Erfahrung;die;Noun;досвід
+Erfolg;der;Noun;успіх
+Ergebnis;das;Noun;результат
+Erholung;die;Noun;відпочинок
+Erklärung;die;Noun;пояснення
+Erlebnis;das;Noun;пригоди
+Ernte;die;Noun;урожай
+Eroberung;die;Noun;завоювання
+Ersatz;der;Noun;заміна
+Erwachsene;der;Noun;дорослий
+Erwartung;die;Noun;очікування
+Erziehung;die;Noun;виховання
+Esel;der;Noun;осел
+Essen;das;Noun;їжа
+Essig;der;Noun;оцет
+Etage;die;Noun;поверх
+Eule;die;Noun;сова
+Event;das;Noun;подія
+Experiment;das;Noun;експеримент
+Export;der;Noun;експорт
+Fabrik;die;Noun;фабрика
+Fach;das;Noun;предмет
+Fahne;die;Noun;прапор
+Fahrrad;das;Noun;велосипед
+Fahrer;der;Noun;водій
+Fahrkarte;die;Noun;квиток
+Fahrzeug;das;Noun;транспортний засіб
+Falle;die;Noun;пастка
+Familie;die;Noun;сім'я
+Fan;der;Noun;вболівальник
+Fantasie;die;Noun;фантазія
+Farbe;die;Noun;колір
+Fasan;der;Noun;фазан
+Fassade;die;Noun;фасад
+Fastnacht;die;Noun;карнавал
+Faulheit;die;Noun;лінощі
+Feder;die;Noun;пір'я
+Fee;die;Noun;фея
+Fehler;der;Noun;помилка
+Feind;der;Noun;ворог
+Feld;das;Noun;поле
+Ferien;die;Noun;канікули
+Fernsehen;das;Noun;телебачення
+Fest;das;Noun;свято
+Feste;die;Noun;свята
+Feuer;das;Noun;вогонь
+Feuerwehr;die;Noun;пожежна служба
+Film;der;Noun;фільм
+Fisch;der;Noun;риба
+Flagge;die;Noun;прапор
+Flasche;die;Noun;пляшка
+Fleisch;das;Noun;м'ясо
+Fleiß;der;Noun;працьовитість
+Fliege;die;Noun;муха
+Flughafen;der;Noun;аеропорт
+Flugzeug;das;Noun;літак
+Flur;der;Noun;коридор
+Fluss;der;Noun;річка
+Flügel;der;Noun;крило
+Foto;das;Noun;фото
+Freizeit;die;Noun;дозвілля
+Freude;die;Noun;радість
+Freund;der;Noun;друг
+Frieden;der;Noun;мир
+Friseur;der;Noun;перукар
+Frucht;die;Noun;фрукт
+Frühling;der;Noun;весна
+Fuchs;der;Noun;лисиця
+Führer;der;Noun;керівник
+Fund;der;Noun;знахідка
+Funktion;die;Noun;функція
+Fuß;der;Noun;нога
+Fußball;der;Noun;футбол
+Gabel;die;Noun;вилка
+Gäste;die;Noun;гості
+Garten;der;Noun;сад
+Gas;das;Noun;газ
+Gasse;die;Noun;провулок
+Gast;der;Noun;гість
+Gebäude;das;Noun;будівля
+Gebiet;das;Noun;територія
+Gebirge;das;Noun;гори
+Geburt;die;Noun;народження
+Gedächtnis;das;Noun;пам'ять
+Gedanke;der;Noun;думка
+Gefahr;die;Noun;небезпека
+Gefängnis;das;Noun;в'язниця
+Gefühl;das;Noun;почуття
+Gegenteil;das;Noun;протилежність
+Geld;das;Noun;гроші
+Gelegenheit;die;Noun;можливість
+Geldbörse;die;Noun;гаманець
+Gemeinde;die;Noun;громада
+Gemüse;das;Noun;овочі
+Genie;das;Noun;геній
+Gericht;das;Noun;суд
+Geschenk;das;Noun;подарунок
+Geschichte;die;Noun;історія
+Geschirr;das;Noun;посуд
+Geschlecht;das;Noun;стать
+Gesicht;das;Noun;обличчя
+Gespräch;das;Noun;розмова
+Gespenst;das;Noun;привид
+Gesundheit;die;Noun;здоров'я
+Getränk;das;Noun;напій
+Gewicht;das;Noun;вага
+Gewitter;das;Noun;гроза
+Gewohnheit;die;Noun;звичка
+Gier;die;Noun;жадібність
+Giraffe;die;Noun;жирафа
+Glas;das;Noun;скло
+Glauben;der;Noun;віра
+Gleis;das;Noun;колія
+Glied;das;Noun;член
+Glück;das;Noun;щастя
+Gnade;die;Noun;милість
+Gold;das;Noun;золото
+Gorilla;der;Noun;горила
+Grab;das;Noun;могила
+Grad;der;Noun;ступінь
+Gramm;das;Noun;грам
+Gras;das;Noun;трава
+Gratulation;die;Noun;привітання
+Grenze;die;Noun;кордон
+Griff;der;Noun;ручка
+Größe;die;Noun;розмір
+Grund;der;Noun;причина
+Gruppe;die;Noun;група
+Grusel;der;Noun;жах
+Gummibärchen;das;Noun;желейний ведмедик
+Gurke;die;Noun;огірок
+Gurt;der;Noun;ремінь
+Gut;das;Noun;добро
+Güte;die;Noun;доброта
+Haare;die;Noun;волосся
+Hafen;der;Noun;порт
+Hagel;der;Noun;град
+Halbmond;der;Noun;півмісяць
+Halle;die;Noun;зал
+Hals;der;Noun;горло
+Haltung;die;Noun;поза
+Hand;die;Noun;рука
+Handel;der;Noun;торгівля
+Handlung;die;Noun;дія
+Handwerk;das;Noun;ремесло
+Hase;der;Noun;заєць
+Haus;das;Noun;будинок
+Haushalt;der;Noun;домогосподарство
+Hausmeister;der;Noun;двірник
+Heft;das;Noun;зошит
+Heimat;die;Noun;рідний край
+Heizung;die;Noun;опалення
+Held;der;Noun;герой
+Hemd;das;Noun;сорочка
+Henne;die;Noun;курка
+Herd;der;Noun;плита
+Herr;der;Noun;пан
+Herz;das;Noun;серце
+Heu;das;Noun;сіно
+Hexe;die;Noun;відьма
+Hilfe;die;Noun;допомога
+Himmel;der;Noun;небо
+Hindernis;das;Noun;перешкода
+Hinweis;der;Noun;вказівка
+Hobby;das;Noun;хобі
+Hochzeit;die;Noun;весілля
+Höhe;die;Noun;висота
+Höhle;die;Noun;печера
+Holz;das;Noun;дерево
+Honig;der;Noun;мед
+Hose;die;Noun;штани
+Hotel;das;Noun;готель
+Huhn;das;Noun;курка
+Hunger;der;Noun;голод
+Hut;der;Noun;капелюх
+Hygiene;die;Noun;гігієна
+Idee;die;Noun;ідея
+Impuls;der;Noun;імпульс
+Industrie;die;Noun;промисловість
+Infektion;die;Noun;інфекція
+Information;die;Noun;інформація
+Ingenieur;der;Noun;інженер
+Initiative;die;Noun;ініціатива
+Insel;die;Noun;острів
+Instrument;das;Noun;інструмент
+Intelligenz;die;Noun;інтелект
+Internet;das;Noun;інтернет
+Interview;das;Noun;інтерв'ю
+Irrtum;der;Noun;помилка
+Jacke;die;Noun;куртка
+Jahr;das;Noun;рік
+Januar;der;Noun;січень
+Job;der;Noun;робота
+Journalist;der;Noun;журналіст
+Juli;der;Noun;липень
+Junge;der;Noun;хлопчик
+Juni;der;Noun;червень
+Jurist;der;Noun;юрист
+Kaffee;der;Noun;кава
+Käfig;der;Noun;клітка
+Käse;der;Noun;сир
+Kaffeehaus;das;Noun;кав'ярня
+Kalender;der;Noun;календар
+Kamera;die;Noun;камера
+Kamin;der;Noun;камін
+Kampf;der;Noun;боротьба
+Kanal;der;Noun;канал
+Kanne;die;Noun;чайник
+Kanzler;der;Noun;канцлер
+Kapitän;der;Noun;капітан
+Kapitel;das;Noun;глава
+Karte;die;Noun;карта
+Kartoffel;die;Noun;картопля
+Karussell;das;Noun;карусель
+Kasse;die;Noun;касса
+Katalog;der;Noun;каталог
+Katze;die;Noun;кішка
+Keller;der;Noun;підвал
+Kerze;die;Noun;свічка
+Kette;die;Noun;ланцюг
+Keks;der;Noun;печиво
+Kind;das;Noun;дитина
+Kino;das;Noun;кінотеатр
+Kirsche;die;Noun;вишня
+Kissen;das;Noun;подушка
+Klasse;die;Noun;клас
+Kleidung;die;Noun;одяг
+Kleinigkeit;die;Noun;дрібниця
+Klempner;der;Noun;сантехнік
+Kneipe;die;Noun;паб
+Knopf;der;Noun;кнопка
+Koch;der;Noun;кухар
+Koffer;der;Noun;валіза
+Kollege;der;Noun;колега
+Kommando;das;Noun;команда
+Kommunikation;die;Noun;комунікація
+Komödie;die;Noun;комедія
+Kompass;der;Noun;компас
+Kondition;die;Noun;умова
+Konditorei;die;Noun;кондитерська
+Konflikt;der;Noun;конфлікт
+König;der;Noun;король
+Konzert;das;Noun;концерт
+Kopf;der;Noun;голова
+Koralle;die;Noun;корал
+Korn;das;Noun;зерно
+Körper;der;Noun;тіло
+Kosten;die;Noun;витрати
+Kraft;die;Noun;сила
+Krankheit;die;Noun;хвороба
+Krawatte;die;Noun;краватка
+Kredit;der;Noun;кредит
+Kreuz;das;Noun;хрест
+Krieg;der;Noun;війна
+Kritik;die;Noun;критика
+Kuchen;der;Noun;пиріг
+Kuh;die;Noun;корова
+Künstler;der;Noun;художник
+Kunde;der;Noun;клієнт
+Kunst;die;Noun;мистецтво
+Kurs;der;Noun;курс
+Küste;die;Noun;узбережжя
+Laden;der;Noun;магазин
+Ladung;die;Noun;вантаж
+Lager;das;Noun;склад
+Lampe;die;Noun;лампа
+Land;das;Noun;країна
+Landschaft;die;Noun;краєвид
+Langweile;die;Noun;нудьга
+Lärm;der;Noun;шум
+Lassen;das;Noun;дозвіл
+Lastwagen;der;Noun;вантажівка
+Lauf;der;Noun;біг
+Leben;das;Noun;життя
+Lehrer;der;Noun;вчитель
+Lehrling;der;Noun;учень
+Leib;der;Noun;тіло
+Leidenschaft;die;Noun;пристрасть
+Leiter;die;Noun;драбина
+Leitung;die;Noun;керівництво
+Lernen;das;Noun;навчання
+Lesen;das;Noun;читання
+Licht;das;Noun;світло
+Liebe;die;Noun;любов
+Lieferung;die;Noun;доставка
+Lied;das;Noun;пісня
+Lüge;die;Noun;брехня
+Luft;die;Noun;повітря
+Lust;die;Noun;бажання
+Löffel;der;Noun;ложка
+Lüge;die;Noun;брехня
+Magnet;der;Noun;магніт
+Mahlzeit;die;Noun;їжа
+Mädchen;das;Noun;дівчина
+Mal;das;Noun;раз
+Malerei;die;Noun;живопис
+Manier;die;Noun;манера
+Mann;der;Noun;чоловік
+Märchen;das;Noun;казка
+Marke;die;Noun;бренд
+Markt;der;Noun;ринок
+Marsch;der;Noun;марш
+Maschine;die;Noun;машина
+Masse;die;Noun;маса
+Material;das;Noun;матеріал
+Mauer;die;Noun;стіна
+Medaille;die;Noun;медаль
+Medikament;das;Noun;ліки
+Meer;das;Noun;море
+Mehrheit;die;Noun;більшість
+Meile;die;Noun;миля
+Meinung;die;Noun;думка
+Meister;der;Noun;майстер
+Menge;die;Noun;кількість
+Mensch;der;Noun;людина
+Messer;das;Noun;ніж
+Metall;das;Noun;метал
+Miete;die;Noun;оренда
+Milch;die;Noun;молоко
+Millionär;der;Noun;мільйонер
+Minute;die;Noun;хвилина
+Mischung;die;Noun;суміш
+Mitglied;das;Noun;член
+Mitte;die;Noun;центр
+Mittwoch;der;Noun;середа
+Möbel;das;Noun;меблі
+Mode;die;Noun;мода
+Möwe;die;Noun;чайка
+Mond;der;Noun;місяць
+Monster;das;Noun;монстр
+Morgen;der;Noun;ранок
+Moskau;das;Noun;Москва
+Motor;der;Noun;двигун
+Möwe;die;Noun;чайка
+Mühle;die;Noun;млин
+Müll;der;Noun;сміття
+Münze;die;Noun;монета
+Museum;das;Noun;музей
+Musik;die;Noun;музика
+Musiker;der;Noun;музикант
+Mut;der;Noun;мужність
+Mutter;die;Noun;мати
+Nachbar;der;Noun;сусід
+Nachfrage;die;Noun;попит
+Nachmittag;der;Noun;післяобідній час
+Nachricht;die;Noun;новина
+Nachteil;der;Noun;недолік
+Nadel;die;Noun;голка
+Nase;die;Noun;ніс
+Natur;die;Noun;природа
+Nebel;der;Noun;туман
+Neffe;der;Noun;племінник
+Nerv;der;Noun;нерв
+Nest;das;Noun;гніздо
+Netz;das;Noun;мережа
+Neugier;die;Noun;цікавість
+Neujahr;das;Noun;Новий рік
+Nichte;die;Noun;племінниця
+Niederschlag;der;Noun;опади
+Niedrigkeit;die;Noun;низькість
+Nobelpreis;der;Noun;Нобелівська премія
+Norden;der;Noun;північ
+Note;die;Noun;нота
+Notiz;die;Noun;нотатка
+November;der;Noun;листопад
+Nudel;die;Noun;макарони
+Nummer;die;Noun;номер
+Nutzen;der;Noun;користь
+Nylon;das;Noun;нейлон
+Obdachlosigkeit;die;Noun;безхатченки
+Obeere;die;Noun;ягода
+Ober;der;Noun;офіціант
+Oberfläche;die;Noun;поверхня
+Ohr;das;Noun;вухо
+Oliven;die;Noun;оливки
+Onkel;der;Noun;дядько
+Oper;die;Noun;опера
+Orange;die;Noun;апельсин
+Orchester;das;Noun;оркестр
+Ordnung;die;Noun;порядок
+Organisation;die;Noun;організація
+Ort;der;Noun;місце
+Osten;der;Noun;схід
+Österreich;das;Noun;Австрія
+Ozean;der;Noun;океан
+Paar;das;Noun;пара
+Paket;das;Noun;пакет
+Palast;der;Noun;палац
+Papagei;der;Noun;папуга
+Papier;das;Noun;папір
+Pappe;die;Noun;картон
+Paradies;das;Noun;рай
+Park;der;Noun;парк
+Partner;der;Noun;партнер
+Party;die;Noun;вечірка
+Pass;der;Noun;паспорт
+Pause;die;Noun;перерва
+Pech;das;Noun;невдача
+Peinlichkeit;die;Noun;незручність
+Pelz;der;Noun;хутро
+Pension;die;Noun;пенсія
+Person;die;Noun;особа
+Personal;das;Noun;персонал
+Pflanze;die;Noun;рослина
+Pflege;die;Noun;догляд
+Pflicht;die;Noun;обов'язок
+Pfote;die;Noun;лапа
+Pfütze;die;Noun;калюжа
+Philosophie;die;Noun;філософія
+Physik;die;Noun;фізика
+Pilz;der;Noun;гриб
+Pinguin;der;Noun;пінгвін
+Pistole;die;Noun;пістолет
+Plan;der;Noun;план
+Platte;die;Noun;тарілка
+Platz;der;Noun;місце
+Polizei;die;Noun;поліція
+Politik;die;Noun;політика
+Polizist;der;Noun;поліцейський
+Pommes;die;Noun;картопля фрі
+Portemonnaie;das;Noun;гаманець
+Post;die;Noun;пошта
+Presse;die;Noun;преса
+Preis;der;Noun;ціна
+Prinz;der;Noun;принц
+Prinzessin;die;Noun;принцеса
+Produktion;die;Noun;виробництво
+Produkt;das;Noun;продукт
+Professor;der;Noun;професор
+Projekt;das;Noun;проект
+Prozess;der;Noun;процес
+Publikum;das;Noun;публіка
+Puppe;die;Noun;лялька
+Putzfrau;die;Noun;прибиральниця
+Qualität;die;Noun;якість
+Quartal;das;Noun;квартал
+Quatsch;der;Noun;нісенітниця
+Quelle;die;Noun;джерело
+Quittung;die;Noun;квитанція
+Rabatt;der;Noun;знижка
+Radio;das;Noun;радіо
+Rahmen;der;Noun;рамка
+Rätsel;das;Noun;загадка
+Rat;der;Noun;рада
+Ratte;die;Noun;щур
+Raum;der;Noun;простір
+Raupe;die;Noun;гусениця
+Reaktion;die;Noun;реакція
+Rechnung;die;Noun;рахунок
+Rechte;das;Noun;право
+Rede;die;Noun;промова
+Regen;der;Noun;дощ
+Regenschirm;der;Noun;парасолька
+Regierung;die;Noun;уряд
+Reihe;die;Noun;ряд
+Reim;der;Noun;рима
+Reise;die;Noun;подорож
+Reiter;der;Noun;вершник
+Reklame;die;Noun;реклама
+Religion;die;Noun;релігія
+Rennen;das;Noun;перегони
+Reporter;der;Noun;репортер
+Respekt;der;Noun;повага
+Restaurant;das;Noun;ресторан
+Resultat;das;Noun;результат
+Revolution;die;Noun;революція
+Richtung;die;Noun;напрямок
+Ring;der;Noun;кільце
+Ritter;der;Noun;лицар
+Rock;der;Noun;рок
+Rodeo;das;Noun;родео
+Roman;der;Noun;роман
+Rose;die;Noun;троянда
+Rücken;der;Noun;спина
+Rucksack;der;Noun;рюкзак
+Ruhe;die;Noun;спокій
+Rumpf;der;Noun;корпус
+Saft;der;Noun;сік
+Salat;der;Noun;салат
+Salz;das;Noun;сіль
+Sammlung;die;Noun;колекція
+Sand;der;Noun;пісок
+Satz;der;Noun;речення
+Säule;die;Noun;колона
+Schaf;das;Noun;вівця
+Schal;der;Noun;шарф
+Schale;die;Noun;чаша
+Schatz;der;Noun;скарб
+Schatz;der;Noun;скарб
+Schatten;der;Noun;тінь
+Schaufel;die;Noun;лопата
+Schaufenster;das;Noun;вітрина
+Schauspieler;der;Noun;актор
+Scheibe;die;Noun;диск
+Schein;der;Noun;світло
+Scheitel;der;Noun;верхівка
+Schenk;der;Noun;дарунок
+Schere;die;Noun;ножиці
+Schild;das;Noun;щит
+Schlag;der;Noun;удар
+Schlange;die;Noun;змія
+Schluss;der;Noun;висновок
+Schlüssel;der;Noun;ключ
+Schmetterling;der;Noun;метелик
+Schnee;der;Noun;сніг
+Schnur;die;Noun;мотузка
+Schokolade;die;Noun;шоколад
+Schornstein;der;Noun;димар
+Schraube;die;Noun;гвинт
+Schreck;der;Noun;переляк
+Schritt;der;Noun;крок
+Schublade;die;Noun;шухляда
+Schuhe;die;Noun;взуття
+Schuld;die;Noun;провина
+Schule;die;Noun;школа
+Schüler;der;Noun;учень
+Schulter;die;Noun;плече
+Schüssel;die;Noun;миска
+Schwan;der;Noun;лебідь
+Schwanz;der;Noun;хвіст
+Schwein;das;Noun;свиня
+Schwester;die;Noun;сестра
+Schwierig;der;Noun;важкий
+See;die;Noun;море
+Seele;die;Noun;душа
+Seemann;der;Noun;моряк
+Seife;die;Noun;мило
+Seil;das;Noun;мотузка
+Seite;die;Noun;сторінка
+Sekretär;der;Noun;секретар
+Semester;das;Noun;семестр
+Semmel;die;Noun;булочка
+Sender;der;Noun;передавач
+Sendung;die;Noun;передача
+Seufzer;der;Noun;зітхання
+Sicht;die;Noun;вид
+Sicher;das;Noun;безпечний
+Sieg;der;Noun;перемога
+Signal;das;Noun;сигнал
+Silbe;die;Noun;склад
+Silber;das;Noun;срібло
+Sinn;der;Noun;сенс
+Sitz;der;Noun;місце
+Sklave;der;Noun;раб
+Socken;die;Noun;шкарпетки
+Soldat;der;Noun;солдат
+Sommer;der;Noun;літо
+Sonne;die;Noun;сонце
+Sorgfalt;die;Noun;ретельність
+Sorge;die;Noun;турбота
+Sorte;die;Noun;сорт
+Sosse;die;Noun;соус
+Spagat;der;Noun;шпагат
+Spalte;die;Noun;колонка
+Spass;der;Noun;задоволення
+Speck;der;Noun;шпик
+Spiegel;der;Noun;дзеркало
+Spiel;das;Noun;гра
+Spielzeug;das;Noun;іграшка
+Spinne;die;Noun;павук
+Spitze;die;Noun;вершина
+Sport;der;Noun;спорт
+Sprechstunde;die;Noun;прийом
+Sprichwort;das;Noun;прислів'я
+Sprudel;der;Noun;мінеральна вода
+Spuk;der;Noun;привид
+Spule;die;Noun;котушка
+Spur;die;Noun;слід
+Stadt;die;Noun;місто
+Stadium;das;Noun;стадіон
+Stahl;der;Noun;сталь
+Stall;der;Noun;стайня
+Stange;die;Noun;палиця
+Stapel;der;Noun;стопка
+Star;der;Noun;зірка
+Starke;die;Noun;сила
+Stau;der;Noun;затори
+Staub;der;Noun;пил
+Stein;der;Noun;камінь
+Stelle;die;Noun;місце
+Ster;der;Noun;зірка
+Stiefel;der;Noun;чобіт
+Stier;der;Noun;бик
+Stil;der;Noun;стиль
+Stimme;die;Noun;голос
+Stirn;die;Noun;чоло
+Stock;der;Noun;палиця
+Stockwerk;das;Noun;поверх
+Stoff;der;Noun;матеріал
+Strafe;die;Noun;покарання
+Strahl;der;Noun;промінь
+Strand;der;Noun;пляж
+Straße;die;Noun;вулиця
+Strecke;die;Noun;відстань
+Streit;der;Noun;суперечка
+Stroh;das;Noun;солома
+Strom;der;Noun;струм
+Strumpf;der;Noun;панчоха
+Student;der;Noun;студент
+Stunde;die;Noun;година
+Sturm;der;Noun;шторм
+Sucht;die;Noun;залежність
+Süden;der;Noun;південь
+Summe;die;Noun;сума
+Supermarkt;der;Noun;супермаркет
+Suppe;die;Noun;суп
+Symbol;das;Noun;символ
+Tablette;die;Noun;таблетка
+Tafel;die;Noun;дошка
+Tag;der;Noun;день
+Tagebuch;das;Noun;щоденник
+Tal;das;Noun;долина
+Tanne;die;Noun;ялина
+Tanz;der;Noun;танець
+Tasche;die;Noun;сумка
+Tasse;die;Noun;чашка
+Taste;die;Noun;клавіша
+Tat;die;Noun;дія
+Täter;der;Noun;виконавець
+Tattoo;das;Noun;тату
+Tau;das;Noun;роса
+Täubchen;das;Noun;голубка
+Tausch;der;Noun;обмін
+Tee;der;Noun;чай
+Teil;das;Noun;частина
+Teller;der;Noun;тарілка
+Tempo;das;Noun;швидкість
+Temperatur;die;Noun;температура
+Tempel;der;Noun;храм
+Teppich;der;Noun;килим
+Termin;der;Noun;термін
+Territorium;das;Noun;територія
+Theater;das;Noun;театр
+Thema;das;Noun;тема
+Thermometer;das;Noun;термометр
+Tier;das;Noun;тварина
+Tiger;der;Noun;тигр
+Tinte;die;Noun;чорнило
+Tisch;der;Noun;стіл
+Titte;die;Noun;груди
+Toleranz;die;Noun;толерантність
+Tonne;die;Noun;тонна
+Topf;der;Noun;каструля
+Torte;die;Noun;торт
+Torte;die;Noun;торт
+Torte;die;Noun;торт
+Tot;der;Noun;смерть
+Töten;das;Noun;вбивство
+Tour;die;Noun;тур
+Tradition;die;Noun;традиція
+Tragödie;die;Noun;трагедія
+Trainer;der;Noun;тренер
+Träne;die;Noun;сльоза
+Traum;der;Noun;сон
+Treffen;das;Noun;зустріч
+Treppe;die;Noun;сходи
+Trinkgeld;das;Noun;чайові
+Trommel;die;Noun;барабан
+Tropfen;der;Noun;крапля
+Trost;der;Noun;розрада
+Truhe;die;Noun;скриня
+Tuch;das;Noun;тканина
+Tugend;die;Noun;чеснота
+Tulpe;die;Noun;тюльпан
+Tumor;der;Noun;пухлина
+Tunnel;der;Noun;тунель
+Tür;die;Noun;двері
+Turm;der;Noun;вежа
+Turnier;das;Noun;турнір
+Typ;der;Noun;тип
+Übung;die;Noun;вправа
+Ufer;das;Noun;берег
+Uhr;die;Noun;годинник
+Umarmung;die;Noun;обійми
+Umbau;der;Noun;перебудова
+Umfang;der;Noun;обсяг
+Umfrage;die;Noun;опитування
+Umgang;der;Noun;спілкування
+Umgebung;die;Noun;навколишнє середовище
+Umkleide;die;Noun;роздягальня
+Umleitung;die;Noun;обхід
+Umstände;die;Noun;обставини
+Umzug;der;Noun;переїзд
+Unabhängigkeit;die;Noun;незалежність
+Unannehmlichkeit;die;Noun;неприємність
+Unfall;der;Noun;нещасний випадок
+Unglück;das;Noun;нещастя
+Unordnung;die;Noun;безлад
+Unterhaltung;die;Noun;розвага
+Unterschrift;die;Noun;підпис
+Unterschied;der;Noun;різниця
+Unterstützung;die;Noun;підтримка
+Untersuchung;die;Noun;дослідження
+Urlaub;der;Noun;відпустка
+Urne;die;Noun;урна
+Ursache;die;Noun;причина
+Urteil;das;Noun;вирок
+Verabredung;die;Noun;домовленість
+Verantwortung;die;Noun;відповідальність
+Verbindung;die;Noun;зв'язок
+Verein;der;Noun;клуб
+Vergangenheit;die;Noun;минуле
+Vergleich;der;Noun;порівняння
+Vergnügen;das;Noun;задоволення
+Vergnügen;das;Noun;задоволення
+Verhaftung;die;Noun;арешт
+Verhandlung;die;Noun;переговори
+Verhältnis;das;Noun;відношення
+Verkehr;der;Noun;рух
+Verlangen;das;Noun;бажання
+Verletzung;die;Noun;травма
+Verliebtheit;die;Noun;закоханість
+Verlierer;der;Noun;програвший
+Verlobte;die;Noun;наречена
+Vermögen;das;Noun;майно
+Vermögen;das;Noun;майно
+Verpflichtung;die;Noun;зобов'язання
+Verstand;der;Noun;розум
+Versteck;das;Noun;схованка
+Versuch;der;Noun;спроба
+Verteidiger;der;Noun;захисник
+Vertrag;der;Noun;договір
+Verwandte;die;Noun;родичі
+Verwirrung;die;Noun;плутанина
+Verzicht;der;Noun;відмова
+Vetter;der;Noun;двоюрідний брат
+Video;das;Noun;відео
+Vieh;das;Noun;худоба
+Vogel;der;Noun;птах
+Volk;das;Noun;народ
+Volleyball;der;Noun;волейбол
+Vollmond;der;Noun;повний місяць
+Vorbote;der;Noun;провісник
+Vorbild;das;Noun;приклад
+Vorbild;das;Noun;приклад
+Vorfall;der;Noun;інцидент
+Vorfreude;die;Noun;очікування
+Vorsicht;die;Noun;обережність
+Vorteil;der;Noun;перевага
+Vorurteil;das;Noun;упередження
+Vulkan;der;Noun;вулкан
+Wahl;die;Noun;вибір
+Wahrheit;die;Noun;правда
+Wald;der;Noun;ліс
+Wand;die;Noun;стіна
+Wange;die;Noun;щока
+Ware;die;Noun;товар
+Wasser;das;Noun;вода
+Wasserfall;der;Noun;водоспад
+Webseite;die;Noun;вебсайт
+Weg;der;Noun;шлях
+Wehr;die;Noun;оборона
+Wein;der;Noun;вино
+Weinberg;der;Noun;виноградник
+Weisheit;die;Noun;мудрість
+Weite;die;Noun;відстань
+Weizen;der;Noun;пшениця
+Welle;die;Noun;хвиля
+Werkzeug;das;Noun;інструмент
+Wert;der;Noun;цінність
+Wesen;das;Noun;сутність
+Wetter;das;Noun;погода
+Widerstand;der;Noun;опір
+Wiese;die;Noun;лука
+Wild;das;Noun;дика природа
+Wind;der;Noun;вітер
+Winter;der;Noun;зима
+Wirkung;die;Noun;вплив
+Wirt;der;Noun;господар
+Wissenschaft;die;Noun;наука
+Witz;der;Noun;жарт
+Wohnung;die;Noun;квартира
+Wolke;die;Noun;хмара
+Wort;das;Noun;слово
+Wunsch;der;Noun;бажання
+Wurzel;die;Noun;корінь
+Wüste;die;Noun;пустеля
+Wut;die;Noun;лють
+Yacht;die;Noun;яхта
+Yoga;das;Noun;йога
+Zehe;die;Noun;палець ноги
+Zahn;der;Noun;зуб
+Zauber;der;Noun;магія
+Zeichnung;die;Noun;малюнок
+Zeiger;der;Noun;стрілка
+Zeit;die;Noun;час
+Zeitschrift;die;Noun;журнал
+Zellstoff;der;Noun;целюлоза
+Zelt;das;Noun;намет
+Zensur;die;Noun;цензура
+Zentrum;das;Noun;центр
+Zettel;der;Noun;листок
+Zeug;das;Noun;річ
+Zeuge;der;Noun;свідок
+Ziege;die;Noun;коза
+Zimmer;das;Noun;кімната
+Zirkus;der;Noun;цирк
+Zitrone;die;Noun;лимон
+Zoll;der;Noun;мито
+Zone;die;Noun;зона
+Zoo;der;Noun;зоопарк
+Zorn;der;Noun;гнів
+Zucker;der;Noun;цукор
+Zufall;der;Noun;випадковість
+Zug;der;Noun;поїзд
+Zunge;die;Noun;язик
+Zweck;der;Noun;мета
+Zweig;der;Noun;гілка
+Zwerg;der;Noun;карлик
+Zwiebel;die;Noun;цибуля
+Zwilling;der;Noun;близнюк
+abholen; ;Verb;забирати
+abliefern; ;Verb;доставляти
+abnehmen; ;Verb;зменшувати
+abreißen; ;Verb;відривати
+absagen; ;Verb;скасовувати
+abspielen; ;Verb;відтворювати
+absteigen; ;Verb;спадати
+achten; ;Verb;уважати
+anfangen; ;Verb;починати
+anmelden; ;Verb;реєструвати
+anpassen; ;Verb;пристосовувати
+anrufen; ;Verb;телефонувати
+anschauen; ;Verb;дивитися
+antworten; ;Verb;відповідати
+arbeiten; ;Verb;працювати
+auffallen; ;Verb;кидатися в очі
+aufgeben; ;Verb;здаватися
+aufhören; ;Verb;зупинятися
+ausdrücken; ;Verb;виражати
+ausfüllen; ;Verb;заповнювати
+auswählen; ;Verb;вибирати
+beachten; ;Verb;приділяти увагу
+befinden; ;Verb;перебувати
+beginnen; ;Verb;починати
+beheben; ;Verb;виправляти
+belegen; ;Verb;займати
+benutzen; ;Verb;використовувати
+berechnen; ;Verb;рахувати
+bereinigen; ;Verb;виправляти
+besichtigen; ;Verb;оглядати
+bestätigen; ;Verb;підтверджувати
+bewerten; ;Verb;оцінювати
+einladen; ;Verb;запрошувати
+eintragen; ;Verb;вносити
+einsetzen; ;Verb;встановлювати
+empfehlen; ;Verb;рекомендувати
+erfahren; ;Verb;довідатися
+erklären; ;Verb;пояснювати
+erlauben; ;Verb;дозволяти
+erreichen; ;Verb;досягати
+erzeugen; ;Verb;виробляти
+erscheinen; ;Verb;з'являтися
+erstarren; ;Verb;заморожувати
+erstellen; ;Verb;створювати
+erzählen; ;Verb;розповідати
+feststellen; ;Verb;встановлювати
+finden; ;Verb;знаходити
+folgen; ;Verb;слідувати
+fragen; ;Verb;питати
+freuen; ;Verb;радіти
+gehen; ;Verb;йти
+genießen; ;Verb;насолоджуватися
+glauben; ;Verb;вірити
+halten; ;Verb;тримати
+hören; ;Verb;слухати
+interessieren; ;Verb;цікавити
+kaufen; ;Verb;купувати
+kennen; ;Verb;знати
+kommunizieren; ;Verb;комунікувати
+kommen; ;Verb;приходити
+können; ;Verb;могти
+lernen; ;Verb;вчитися
+laufen; ;Verb;бігти
+leben; ;Verb;жити
+lesen; ;Verb;читати
+machen; ;Verb;робити
+melden; ;Verb;повідомляти
+möchten; ;Verb;хотіти
+nehmen; ;Verb;брати
+reparieren; ;Verb;ремонтувати
+sehen; ;Verb;бачити
+senden; ;Verb;відправляти
+signalisieren; ;Verb;сигналізувати
+sprechen; ;Verb;говорити
+stehen; ;Verb;стояти
+stellen; ;Verb;ставити
+testen; ;Verb;тестувати
+tragen; ;Verb;нести
+verändern; ;Verb;змінювати
+vergleichen; ;Verb;порівнювати
+verstehen; ;Verb;розуміти
+vorschlagen; ;Verb;пропонувати
+warten; ;Verb;чекати
+wenden; ;Verb;повертати
+zeigen; ;Verb;показувати
+abenteuerlich; ;Adjective;пригодницький
+abgefahren; ;Adjective;крутий
+abgerissen; ;Adjective;зірваний
+abstrakt; ;Adjective;абстрактний
+adäquat; ;Adjective;адекватний
+affektiv; ;Adjective;афективний
+agil; ;Adjective;спритний
+alt; ;Adjective;старий
+anpassungsfähig; ;Adjective;адаптивний
+angemessen; ;Adjective;відповідний
+anspruchsvoll; ;Adjective;вимогливий
+aufgeschlossen; ;Adjective;відкритий
+ausgefallen; ;Adjective;незвичайний
+authentisch; ;Adjective;автентичний
+behaglich; ;Adjective;затишний
+bescheiden; ;Adjective;скромний
+beständig; ;Adjective;стійкий
+bewährt; ;Adjective;перевірений
+charismatisch; ;Adjective;харизматичний
+charmant; ;Adjective;чарівний
+deutlich; ;Adjective;ясний
+dicht; ;Adjective;щільний
+dynamisch; ;Adjective;динамічний
+einzigartig; ;Adjective;унікальний
+elegant; ;Adjective;елегантний
+ernst; ;Adjective;серйозний
+exklusiv; ;Adjective;ексклюзивний
+fest; ;Adjective;міцний
+freundlich; ;Adjective;дружній
+geheim; ;Adjective;таємний
+gespannt; ;Adjective;напружений
+gesund; ;Adjective;здоровий
+glücklich; ;Adjective;щасливий
+gut; ;Adjective;добрий
+hervorragend; ;Adjective;видатний
+innovativ; ;Adjective;інноваційний
+intelligent; ;Adjective;інтелігентний
+interessant; ;Adjective;цікавий
+irregular; ;Adjective;нерегулярний
+komplex; ;Adjective;складний
+kraftvoll; ;Adjective;могутній
+kreativ; ;Adjective;креативний
+modern; ;Adjective;сучасний
+mutig; ;Adjective;сміливий
+natürlich; ;Adjective;природний
+praktisch; ;Adjective;практичний
+rätselhaft; ;Adjective;загадковий
+relevant; ;Adjective;важливий
+robust; ;Adjective;міцний
+schön; ;Adjective;гарний
+selbstbewusst; ;Adjective;самовпевнений
+sicher; ;Adjective;безпечний
+spektakulär; ;Adjective;спектакулярний
+stabil; ;Adjective;стабільний
+stark; ;Adjective;сильний
+stressig; ;Adjective;стресовий
+tief; ;Adjective;глибокий
+unterschiedlich; ;Adjective;різний
+verlässlich; ;Adjective;надійний
+vertraut; ;Adjective;знайомий
+vielseitig; ;Adjective;багатогранний
+wichtig; ;Adjective;важливий
+zäh; ;Adjective;упертий
+zeitgemäß; ;Adjective;сучасний
+ab; ;Preposition;від
+an; ;Preposition;на
+auf; ;Preposition;на
+aus; ;Preposition;з
+bei; ;Preposition;біля
+bis; ;Preposition;до
+durch; ;Preposition;через
+für; ;Preposition;для
+gegen; ;Preposition;проти
+in; ;Preposition;в
+mit; ;Preposition;з
+nach; ;Preposition;після
+neben; ;Preposition;поруч
+ohne; ;Preposition;без
+seit; ;Preposition;з
+von; ;Preposition;від
+vor; ;Preposition;перед
+zu; ;Preposition;до
+zwischen; ;Preposition;між
+über; ;Preposition;через
+unter; ;Preposition;під
+gegenüber; ;Preposition;напроти
+entlang; ;Preposition;вдоль
+hinter; ;Preposition;за
+überall; ;Preposition;скрізь
+während; ;Preposition;під час
+innerhalb; ;Preposition;в межах
+außerhalb; ;Preposition;поза межами
+entgegen; ;Preposition;супроти
+bis zu; ;Preposition;до
+aufgrund; ;Preposition;з причини
+seitens; ;Preposition;з боку
+anlässlich; ;Preposition;з нагоди
+inmitten; ;Preposition;серед
+nebst; ;Preposition;разом з
+jenseits; ;Preposition;по той бік
+anhand; ;Preposition;на основі
+mitten; ;Preposition;посеред
+vorbei; ;Preposition;мимо
+innerhalb von; ;Preposition;в межах
+anhand von; ;Preposition;на основі
+bis einschließlich; ;Preposition;до включно
+ab; ;Adverb;від
+abseits; ;Adverb;по боках
+absolut; ;Adverb;абсолютно
+auch; ;Adverb;також
+bald; ;Adverb;скоро
+besser; ;Adverb;краще
+bevor; ;Adverb;перш ніж
+bisher; ;Adverb;досі
+bald; ;Adverb;незабаром
+eher; ;Adverb;швидше
+eigen; ;Adverb;особисто
+einfach; ;Adverb;просто
+endlich; ;Adverb;нарешті
+erst; ;Adverb;тільки
+fast; ;Adverb;майже
+frequently; ;Adverb;часто
+gar; ;Adverb;зовсім
+gern; ;Adverb;з радістю
+gewöhnlich; ;Adverb;зазвичай
+gleich; ;Adverb;одразу
+halb; ;Adverb;наполовину
+heute; ;Adverb;сьогодні
+hinten; ;Adverb;ззаду
+hoch; ;Adverb;високо
+immer; ;Adverb;завжди
+jetzt; ;Adverb;зараз
+klar; ;Adverb;чітко
+langsam; ;Adverb;повільно
+mehr; ;Adverb;більше
+mindestens; ;Adverb;мінімум
+morgen; ;Adverb;завтра
+nicht; ;Adverb;не
+noch; ;Adverb;ще
+oft; ;Adverb;часто
+oder; ;Adverb;або
+plötzlich; ;Adverb;раптом
+recht; ;Adverb;досить
+ruhig; ;Adverb;спокійно
+selten; ;Adverb;рідко
+so; ;Adverb;так
+später; ;Adverb;пізніше
+schnell; ;Adverb;швидко
+später; ;Adverb;пізніше
+stark; ;Adverb;сильно
+täglich; ;Adverb;щодня
+teilweise; ;Adverb;частково
+überall; ;Adverb;де завгодно
+vorher; ;Adverb;заздалегідь
+während; ;Adverb;під час
+wieder; ;Adverb;знову
+wirklich; ;Adverb;дійсно
+zu; ;Adverb;до
+zuerst; ;Adverb;спочатку
+ich; ;Pronoun;я
+du; ;Pronoun;ти
+er; ;Pronoun;він
+sie; ;Pronoun;вона
+es; ;Pronoun;воно
+wir; ;Pronoun;ми
+ihr; ;Pronoun;ви
+sie; ;Pronoun;вони
+mich; ;Pronoun;мене
+dich; ;Pronoun;тебе
+ihn; ;Pronoun;його
+sie; ;Pronoun;її
+es; ;Pronoun;його
+uns; ;Pronoun;нас
+euch; ;Pronoun;вас
+sie; ;Pronoun;їх
+mein; ;Pronoun;мій
+dein; ;Pronoun;твій
+sein; ;Pronoun;його
+ihr; ;Pronoun;її
+sein; ;Pronoun;його
+unser; ;Pronoun;наш
+euer; ;Pronoun;ваш
+ihr; ;Pronoun;їх
+meine; ;Pronoun;моя
+deine; ;Pronoun;твоя
+seine; ;Pronoun;його
+ihre; ;Pronoun;її
+seine; ;Pronoun;його
+unsere; ;Pronoun;наша
+eure; ;Pronoun;ваша
+ihre; ;Pronoun;їх
+dieser; ;Pronoun;цей
+jene; ;Pronoun;та
+selbst; ;Pronoun;сам
+wer; ;Pronoun;хто
+was; ;Pronoun;що
+wem; ;Pronoun;кому
+wen; ;Pronoun;кого
+wessen; ;Pronoun;чиї
+jeder; ;Pronoun;кожен
+man; ;Pronoun;людина
+einer; ;Pronoun;один
+kein; ;Pronoun;жоден
+alle; ;Pronoun;всі
+einige; ;Pronoun;деякі
+niemand; ;Pronoun;ніхто
+jemand; ;Pronoun;хтось
+etwas; ;Pronoun;щось
+nichts; ;Pronoun;нічого
+viel; ;Pronoun;багато
+wenig; ;Pronoun;мало
+alles; ;Pronoun;все
+ein; ;Pronoun;один
+ein; ;Pronoun;один
+keiner; ;Pronoun;ніхто
+manche; ;Pronoun;декотрі
+nichts; ;Pronoun;нічого
+sich; ;Pronoun;себе
+uns; ;Pronoun;нас
+dich; ;Pronoun;тебе
+mich; ;Pronoun;мене
+ihnen; ;Pronoun;їм
+ihm; ;Pronoun;йому
+ihn; ;Pronoun;його
+ihr; ;Pronoun;її
+ihren; ;Pronoun;її
+euch; ;Pronoun;вас
+uns; ;Pronoun;нас
+wir; ;Pronoun;ми
+euch; ;Pronoun;вас
+uns; ;Pronoun;нас
+mich; ;Pronoun;мене
+sie; ;Pronoun;її
+ihnen; ;Pronoun;їм
+sich; ;Pronoun;себе
+ihre; ;Pronoun;її
+euch; ;Pronoun;вас
+ihn; ;Pronoun;його
+ihr; ;Pronoun;її
+mein; ;Pronoun;мій
+dein; ;Pronoun;твій
+sein; ;Pronoun;його
+unser; ;Pronoun;наш
+euer; ;Pronoun;ваш
+ihr; ;Pronoun;їх
+aber; ;Conjunction;але
+als; ;Conjunction;як
+auch; ;Conjunction;також
+bevor; ;Conjunction;до
+bis; ;Conjunction;поки
+dass; ;Conjunction;що
+denn; ;Conjunction;бо
+deshalb; ;Conjunction;тому що
+doch; ;Conjunction;але
+entweder ... oder; ;Conjunction;або ... або
+falls; ;Conjunction;якщо
+für; ;Conjunction;для
+wenn; ;Conjunction;якщо
+während; ;Conjunction;під час
+weil; ;Conjunction;тому що
+wenn; ;Conjunction;коли
+ob; ;Conjunction;чи
+sobald; ;Conjunction;як тільки
+solange; ;Conjunction;доки
+so; ;Conjunction;так
+sowohl ... als auch; ;Conjunction;як ... так і
+statt; ;Conjunction;замість
+sofern; ;Conjunction;якщо
+obwohl; ;Conjunction;хоча
+währenddessen; ;Conjunction;тим часом
+damit; ;Conjunction;щоб
+da; ;Conjunction;оскільки
+obgleich; ;Conjunction;хоча
+als ob; ;Conjunction;якби
+trotzdem; ;Conjunction;незважаючи на це
+soweit; ;Conjunction;до тих пір
+wohingegen; ;Conjunction;тоді як
+bis dahin; ;Conjunction;до того часу
+es sei denn; ;Conjunction;якщо не
+außerdem; ;Conjunction;крім того
+ab; ;Particle;з
+allein; ;Particle;тільки
+am; ;Particle;на
+an; ;Particle;до
+auch; ;Particle;також
+aus; ;Particle;з
+bei; ;Particle;біля
+bevor; ;Particle;до
+bis; ;Particle;до
+durch; ;Particle;через
+ein; ;Particle;один
+einmal; ;Particle;один раз
+einf; ;Particle;просто
+entweder; ;Particle;або
+er; ;Particle;він
+es; ;Particle;це
+etwa; ;Particle;приблизно
+fort; ;Particle;далі
+für; ;Particle;для
+gegen; ;Particle;проти
+genau; ;Particle;точно
+gesagt; ;Particle;сказано
+immer; ;Particle;завжди
+ja; ;Particle;так
+jedoch; ;Particle;проте
+kann; ;Particle;може
+kein; ;Particle;жоден
+letztlich; ;Particle;в кінці
+mehr; ;Particle;більше
+möglich; ;Particle;можливий
+nicht; ;Particle;не
+nur; ;Particle;тільки
+ob; ;Particle;чи
+oder; ;Particle;або
+quasi; ;Particle;майже
+seit; ;Particle;з
+sogar; ;Particle;навіть
+so; ;Particle;так
+trotz; ;Particle;незважаючи на
+über; ;Particle;над
+um; ;Particle;навколо
+unter; ;Particle;під
+von; ;Particle;від
+vor; ;Particle;перед
+wenn; ;Particle;якщо
+während; ;Particle;під час
+zum; ;Particle;до
+zu; ;Particle;до
+zwischen; ;Particle;між
+ach; ;Interjection;ах
+ah; ;Interjection;а
+alle; ;Interjection;всі
+au; ;Interjection;ой
+aura; ;Interjection;ура
+bist; ;Interjection;ти
+dabei; ;Interjection;з
+da; ;Interjection;там
+die; ;Interjection;ті
+doch; ;Interjection;проте
+egal; ;Interjection;все одно
+eh; ;Interjection;адже
+einen; ;Interjection;один
+einen; ;Interjection;один
+er; ;Interjection;він
+es; ;Interjection;це
+hallo; ;Interjection;привіт
+huch; ;Interjection;ой
+huh; ;Interjection;хух
+hurra; ;Interjection;ура
+i; ;Interjection;я
+ihn; ;Interjection;його
+ja; ;Interjection;так
+juchhu; ;Interjection;ура
+kling; ;Interjection;дзвін
+konnte; ;Interjection;могла
+oh; ;Interjection;о
+okay; ;Interjection;добре
+pass; ;Interjection;підходить
+pfui; ;Interjection;фу
+puh; ;Interjection;фу
+quatsch; ;Interjection;дурниця
+ruhig; ;Interjection;спокійно
+sag; ;Interjection;скажи
+sehen; ;Interjection;бачити
+so; ;Interjection;так
+toll; ;Interjection;чудово
+uh; ;Interjection;ух
+ups; ;Interjection;упс
+wahr; ;Interjection;істинний
+wow; ;Interjection;вау
+yippee; ;Interjection;ура
+zack; ;Interjection;бац
+zum; ;Interjection;до
+der; ;Definite;чоловічий рід
+die; ;Definite;жіночий рід
+das; ;Definite;середній рід
+die; ;Definite;множина
+ein; ;Indefinite;чоловічий рід
+eine; ;Indefinite;жіночий рід
+ein; ;Indefinite;середній рід
+keiner; ;Indefinite;чоловічий рід
+keine; ;Indefinite;жіночий рід
+keines; ;Indefinite;середній рід
+kein; ;Indefinite;множина
+mein; ;Possessive;мій
+dein; ;Possessive;твій
+sein; ;Possessive;його
+ihr; ;Possessive;її
+unser; ;Possessive;наш
+euer; ;Possessive;ваш
+ihr; ;Possessive;їх
+mein; ;Possessive;мій
+dein; ;Possessive;твій
+seine; ;Possessive;його
+ihre; ;Possessive;її
+unsere; ;Possessive;наші
+eure; ;Possessive;ваші
+ihre; ;Possessive;їх
+abstehend; ;Gerund;віддалений
+anziehend; ;Gerund;привабливий
+bevorstehend; ;Gerund;майбутній
+bedeutend; ;Gerund;значний
+eingehend; ;Gerund;детально
+fahrend; ;Gerund;рухомий
+fortschreitend; ;Gerund;прогресивний
+laufend; ;Gerund;поточний
+lebend; ;Gerund;живий
+mitarbeitend; ;Gerund;співпрацюючий
+

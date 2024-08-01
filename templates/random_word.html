@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Word</title>
+</head>
+<body>
+    <h1>Word Information</h1>
+    <p><strong>Німецьке слово:</strong> {{ details['article'] }} {{ word }}</p>
+    <p><strong>Частина мови:</strong> {{ details['part_of_speech'] }}</p>
+    <p><strong>Переклад (українською):</strong> {{ details['translation'] }}</p>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</body>
+</html>

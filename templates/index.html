@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+            text-align: left; /* Текст по лівому краю для більшої читабельності */
+            display: inline-block; /* Тримання результатів в одному рядку */
+        }
+        .result .label {
+            font-weight: normal; /* Тонкий шрифт для заголовків */
+        }
+        .result .value {
+            font-weight: bold; /* Жирний шрифт для значень */
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            display: block; /* Переконатися, що кнопка блочна для відцентрування */
+            margin-left: auto;
+            margin-right: auto; /* Центрування кнопки */
+        }
+    </style>
+</head>
+<body>
+    <h1>Нове слово на кожен день!</h1>
+    <div id="result" class="result"></div>
+    <button onclick="getRandomWord()">НОВЕ СЛОВО</button>
+    <script>
+        function getRandomWord() {
+            fetch('/get_word')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        document.getElementById('result').innerText = 'Error: ' + data.error;
+                    } else {
+                        document.getElementById('result').innerHTML = `
+                            <span class="label">Deutsch:</span> <span class="value">${data.word}</span><br>
+                            <span class="label">Частина мови:</span> <span class="value">${data.part_of_speech || 'N/A'}</span><br>
+                            <span class="label">Українська:</span> <span class="value">${data.translation}</span>
+                        `;
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching word:', error);
+                    document.getElementById('result').innerText = 'An error occurred.';
+                });
+        }
+    </script>
+</body>
+</html>
